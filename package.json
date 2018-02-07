@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/australian-design-college/ictprg503-major-unit-assignment.git"
   },
-  "author": "",
+  "author": "Australian Design College",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
